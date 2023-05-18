@@ -1,0 +1,36 @@
+.usuario1{
+    display: flex;
+}
+
+.avatar{
+    width: 60px;
+    border-radius: 30px;
+}
+
+.msm1{
+    background-color: green;
+    color: white;
+    padding: 13px;
+    border-radius: 25px;
+    border-bottom-left-radius: 0px;
+    display: inline-block;
+    margin-left: 8px;
+    text-align: left;
+}
+
+.usuario2{
+    display: flex;
+    margin-left: 20%;
+}
+
+.msm2{
+    background-color: blueviolet;
+    color: white;
+    padding: 13px;
+    border-radius: 25px;
+    border-bottom-right-radius: 0px;
+    display: inline-block;
+    margin-right: 8px;
+    text-align: right;
+}
+
